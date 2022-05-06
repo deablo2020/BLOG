@@ -280,7 +280,13 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
         margin-bottom: 5px;
     }
 
-
+    .slide{
+        padding-inline-start:0%;
+    }
+    .boxY,.boxZ, .boxA, .boxB, .boxC{
+        padding:10px;
+        width :100%;
+    }
   
  
 
