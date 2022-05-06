@@ -279,4 +279,9 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
         margin-bottom: 5px;
     }
 
+   .slide{
+       text-align: centre;
+       padding: 10px;
+   }
+
 }
