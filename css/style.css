@@ -254,6 +254,7 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
     #newsletter h1,
     #newsletter form,
     #boxes .box,
+    .slide, 
     article#main-col,
     aside#sidebar{
         float: none;
@@ -279,9 +280,8 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
         margin-bottom: 5px;
     }
 
-   .slide{
-       text-align: centre;
-       padding: 10px;
-   }
+
+  
+ 
 
 }
